@@ -1,9 +1,9 @@
 ## Hi, I am Tomoki ⛰️
 
 #### Languages
-![js](https://img.shields.io/badge/Javascript-yellow.svg?logo=javascript&style=flat)
 ![ts](https://img.shields.io/badge/-TypeScript-navy.svg?logo=typescript&style=flat)
 ![golang](https://img.shields.io/badge/Go-white.svg?logo=go&style=flat)
+![js](https://img.shields.io/badge/Javascript-yellow.svg?logo=javascript&style=flat)
 ![html](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat)
 ![css](https://img.shields.io/badge/-HTML5-orange.svg?logo=html5&style=flat)
 
