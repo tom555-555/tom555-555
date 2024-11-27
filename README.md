@@ -1,4 +1,4 @@
-## Hi, I am Tomoki, a web developer ⛰️
+## Hi, I am Tomoki⛰️
 
 #### Languages
 ![ts](https://img.shields.io/badge/-TypeScript-navy.svg?logo=typescript&style=flat)
