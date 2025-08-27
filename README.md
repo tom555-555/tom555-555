@@ -1,36 +1,22 @@
-## Hi, I am Tomoki⛰️
+## Hi, I am Tomoki ⛰️
 
-#### Languages
-![ts](https://img.shields.io/badge/-TypeScript-navy.svg?logo=typescript&style=flat)
-![golang](https://img.shields.io/badge/Go-white.svg?logo=go&style=flat)
-![js](https://img.shields.io/badge/Javascript-yellow.svg?logo=javascript&style=flat)
-![html](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat)
-![css](https://img.shields.io/badge/-HTML5-orange.svg?logo=html5&style=flat)
-![English](https://img.shields.io/badge/-English-blue)
-![japanese](https://img.shields.io/badge/-Japanese-red)
+### Programming Languages
+![TypeScript](https://img.shields.io/badge/-TypeScript-f0f0f0?logo=typescript&style=for-the-badge&logoSize=auto)
+![Go](https://img.shields.io/badge/-Go-f0f0f0?logo=go&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f0f0f0?logo=javascript&style=for-the-badge&logoSize=auto)
+
+### Frontend
+![React](https://img.shields.io/badge/React-f0f0f0?style=for-the-badge&logo=react&logoSize=auto)
+![Vue.js](https://img.shields.io/badge/-Vue.js-f0f0f0?logo=vue.js&style=for-the-badge&logoSize=auto)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-f0f0f0?logo=tailwindcss&style=for-the-badge&logoSize=auto)
+![Next.js](https://img.shields.io/badge/-Next.js-f0f0f0?logo=nextdotjs&style=for-the-badge&logoColor=black&logoSize=auto)
+
+### Backend
+![Echo](https://img.shields.io/badge/Echo-f0f0f0?style=for-the-badge&logo=go)
+![Gin](https://img.shields.io/badge/Gin-f0f0f0?style=for-the-badge&logo=go)
+![NodeJS](https://img.shields.io/badge/Node.js-f0f0f0?style=for-the-badge&logo=nodedotjs&logoSize=auto)
 
 
-
-
-#### Libraries
-![react](https://img.shields.io/badge/React-white.svg?logo=react&style=flat)
-![vue](https://img.shields.io/badge/Vue.js-498030.svg?logo=vue.js&style=flat)
-![tailwind](https://img.shields.io/badge/-TailwindCSS-slateblue.svg?logo=tailwindcss&style=flat)
-
-#### Frameworks
-![nextjs](https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&style=flat)
-![echo](https://img.shields.io/badge/-echo-grey.svg?logo=echo&style=flat)
-<!--
-**tom555-555/tom555-555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Spoken Languages
+![English](https://img.shields.io/badge/-English-white?style=for-the-badge&logoSize=auto)
+![Japanese](https://img.shields.io/badge/-Japanese-white?style=for-the-badge&logoSize=auto)
