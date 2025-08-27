@@ -15,9 +15,9 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-f0f0f0?logo=nextdotjs&style=for-the-badge&logoColor=black&logoSize=auto)
 
 ###### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-f0f0f0?style=for-the-badge&logo=nodedotjs&logoSize=auto)
 ![Echo](https://img.shields.io/badge/Echo-f0f0f0?style=for-the-badge&logo=go)
 ![Gin](https://img.shields.io/badge/Gin-f0f0f0?style=for-the-badge&logo=go)
-![NodeJS](https://img.shields.io/badge/Node.js-f0f0f0?style=for-the-badge&logo=nodedotjs&logoSize=auto)
 
 ###### Databases
 ![postgreSQL](https://img.shields.io/badge/postgreSQL-f0f0f0.svg?style=for-the-badge&logo=postgresql&logoSize=auto)
