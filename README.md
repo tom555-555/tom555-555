@@ -1,5 +1,4 @@
-## Hi, I am Tomoki
-### I am mainly a web dev 💻, based on Vancouver🇨🇦
+### Hi, I’m Tomoki, a full-stack developer based in Vancouver🇨🇦
 
 ###### Programming Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-f0f0f0?logo=typescript&style=for-the-badge&logoSize=auto)
