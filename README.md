@@ -1,4 +1,4 @@
-## Hi, I am Tomoki.
+## Hi, I am Tomoki
 ### I am mainly a web dev 💻, based on Vancouver🇨🇦
 
 ###### Programming Languages
