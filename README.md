@@ -1,4 +1,3 @@
-### Hi, I'm Tomoki, an engineer based in Canada
 
 ###### Programming Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-f0f0f0?logo=typescript&style=for-the-badge&logoSize=auto)
